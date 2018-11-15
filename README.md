@@ -5,7 +5,7 @@ New Solution to FreeCodeCamp Intermediate Algorithm Scripting: Search and Replac
 
 Problem: 
 
-Intermediate Algorithm Scripting: Search and Replace
+
 Perform a search and replace on the sentence using the arguments provided and return the new sentence.
 
 First argument is the sentence to perform the search and replace on.
